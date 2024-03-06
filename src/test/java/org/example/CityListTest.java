@@ -9,7 +9,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class CityListTest {
     City city = new City("Dhaka","Bangladesh");
     City city2 = new City("Khulna","Bangladesh");
-    City city3 = new City("Tangail","Bangladesh");
+    City city3 = new City("Rajshahi","Bangladesh");
 
     @Test
     public void testcount()
